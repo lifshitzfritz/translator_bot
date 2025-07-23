@@ -11,3 +11,4 @@ bot = TeleBot(token=BOT_TOKEN,
               parse_mode='HTML')
 
 translator = Translator()
+print(translator)
